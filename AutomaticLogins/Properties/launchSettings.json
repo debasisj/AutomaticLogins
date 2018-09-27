@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AutomaticLogins": {
+      "commandName": "Project",
+      "commandLineArgs": "help"
+    }
+  }
+}
